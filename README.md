@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eaubrun
 - 👀 I’m interested in web content (php, javascript)
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web project, I can speak English / French
+- 💞️ I’m looking to collaborate on web project, I speak English / French
 - 📫 My email is emeline.aubrun@gmail.com
 
 <!---
